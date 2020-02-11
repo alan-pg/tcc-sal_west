@@ -1,0 +1,23 @@
+{
+    "name": "login/wef",
+    "description": "cadastro e login em php",
+    "authors": [
+        {
+            "name": "webdesing em foco",
+            "email": "alan92goncalves@gmail.com"
+        }
+    ],
+    "require": {
+    "bjeavons/zxcvbn-php": "^0.4"
+    },
+    "autoload": {
+    "psr-4":{
+        "Controllers\\":"../controller/",
+        "Classes\\":"../classes/",
+        "Models\\":"../models/",
+        "Traits\\":"../traits/"
+            
+           
+        }
+    }
+}

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="2">
+        <file>
+            <url>views/chamadosEmAndamentoEncarregado.php</url>
+            <bookmark id="2">
+                <name/>
+                <line>201</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>controller/controllerCadastro.php</url>
+            <bookmark id="1">
+                <name/>
+                <line>0</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/tcc/views/menuCoordenador.php</file>
+            <file>file:/C:/xampp/htdocs/tcc/views/relatorios.php</file>
+            <file>file:/C:/xampp/htdocs/tcc/controller/contollerInformativos.php</file>
+            <file>file:/C:/xampp/htdocs/tcc/views/menuManutencao.php</file>
+        </group>
+    </open-files>
+</project-private>
